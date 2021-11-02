@@ -6,15 +6,17 @@ nav{
     background-color:#95DAC1;
 }
 section{
-    background-color:#FD6F96;
+    background-color:#FC8210;
     grid-column:1/4;
 }
 aside{
-    background-color:#95DAC1;
+    background-color:#E05D5D
+    ;
     grid-column:4/5;
 }
 footer{
-    background-color:#FFC107;
+    background-color:#007892;
+    text-align: center;
 }
 main{
     display: grid;
